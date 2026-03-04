@@ -1,4 +1,4 @@
-# CEX_Tagging
+# Algorand CEX Tagging
 This Repo is intended to document the tagging of CEXs, On/Offramps, Casinos, and other custodians on the Algorand Network.
 
 **Identifying a CEX**
